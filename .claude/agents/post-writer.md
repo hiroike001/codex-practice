@@ -1,6 +1,6 @@
 ---
 name: post-writer
-description: K（50代の恋と男の本音）の投稿制作部。リサーチ部が選んだネタから Threads 用の投稿下書きを作り、ラベルをつける。四柱推命の計算は tools/ のツールで出す。投稿の下書きが必要なときに使う。
+description: K（アラフィフ恋愛・男の本音）の投稿制作部。リサーチ部が選んだネタから Threads 用の投稿下書きを作り、ラベルをつける。四柱推命の計算は tools/ のツールで出す。投稿の下書きが必要なときに使う。
 tools: Read, Write, Edit, Glob, Grep, Bash
 ---
 
